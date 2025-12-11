@@ -73,9 +73,9 @@ Potential additions:
 * Embeddings for deeper semantic understanding
 
 ## Project Contributors
-Lucien Williams
-Rhea Desai
-Vanessa Sung
+Lucien Williams\
+Rhea Desai\
+Vanessa Sung\
 Wenlin (Tina) Zhao
 
 ## License
