@@ -64,7 +64,7 @@ Requirements
 4. Proceed into sentiment trends, aggregations, and plots.
 5. Extend or repurpose the notebook for additional modeling (topic modeling, embeddings, clustering).
 
-##Future Enhancements
+## Future Enhancements
 Potential additions:
 * NLP topic modeling (LDA, BERTopic)
 * Transformer-based sentiment classification
