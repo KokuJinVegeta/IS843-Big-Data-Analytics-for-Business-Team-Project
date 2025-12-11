@@ -13,7 +13,7 @@ This project demonstrates how large-scale Steam player reviews can be transforme
 The goal is to make sense of massive, unstructured user feedback and extract actionable patterns related to sentiment, engagement, game features, and publisher behavior.
 
 You’ll find the full analysis here:
-_QST7-Level-Up-Player-Reviews-For-Development.ipynb_
+_QST7_Level_Up_Player_Reviews_For_Development.ipynb_
 
 The notebook contains code, documentation, feature engineering steps, sentiment aggregation, and visualizations.
 
